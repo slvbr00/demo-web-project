@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello FANCY World WEBHOOK!</h2>
+<h2>Hello FANCY World WEBHOOK PIPELINE!</h2>
 </body>
 </html>
